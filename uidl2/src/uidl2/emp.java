@@ -165,6 +165,12 @@ public class emp {
 		lblNewLabel_4.setBounds(40, 338, 110, 30);
 		frame.getContentPane().add(lblNewLabel_4);
 	}
+	
+	
+	void pushNewBranch() {
+		System.out.println("This is branch X");
+		System.out.println("Case Tools New Branch Demo");
+	}
 }
 
 
